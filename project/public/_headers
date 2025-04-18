@@ -1,0 +1,20 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' *.unsplash.com fonts.googleapis.com fonts.gstatic.com; img-src 'self' data: *.unsplash.com; font-src 'self' fonts.googleapis.com fonts.gstatic.com; connect-src 'self' *.emailjs.com;
+
+/*.js
+  Content-Type: application/javascript; charset=utf-8
+
+/*.mjs
+  Content-Type: application/javascript; charset=utf-8
+
+/assets/*.js
+  Content-Type: application/javascript; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/*.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable

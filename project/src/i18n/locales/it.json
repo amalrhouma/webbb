@@ -1,0 +1,192 @@
+{
+  "common": {
+    "close": "Chiudi",
+    "previous": "Precedente",
+    "next": "Successivo"
+  },
+  "nav": {
+    "rooms": "Camere",
+    "amenities": "Servizi",
+    "contact": "Contatti",
+    "selectLanguage": "Seleziona lingua",
+    "backToHome": "Torna alla Home"
+  },
+  "hero": {
+    "welcome": "Benvenuti a Galileo",
+    "subtitle": "Scopri comfort e lusso nel cuore di Pisa",
+    "airport": "A soli 5 minuti dall'Aeroporto Internazionale di Pisa",
+    "book": "Prenota ora"
+  },
+  "rooms": {
+    "title": "I Nostri Alloggi",
+    "standard": {
+      "title": "Camere Standard",
+      "description": "Camere confortevoli e accoglienti con tutti i comfort essenziali"
+    },
+    "luxury": {
+      "title": "Camere Lusso",
+      "description": "Sistemazioni premium con servizi di alta gamma e viste spettacolari"
+    },
+    "types": {
+      "double": "Camera Doppia",
+      "triple": "Camera Tripla",
+      "quadruple": "Camera Quadrupla",
+      "deluxe": "Camera Deluxe",
+      "superior": "Camera Superior",
+      "family": "Camera Familiare"
+    },
+    "beds": {
+      "single": "Letto singolo",
+      "double": "Letto matrimoniale",
+      "large_double": "Letto matrimoniale grande",
+      "king": "Letto king size"
+    },
+    "view": {
+      "garden": "Vista giardino",
+      "city": "Vista città",
+      "courtyard": "Vista cortile interno"
+    },
+    "amenities": {
+      "tv": "TV a schermo piatto",
+      "minibar": "Minibar",
+      "coffee": "Macchina del caffè",
+      "safe": "Cassaforte",
+      "desk": "Scrivania"
+    },
+    "bathroom": {
+      "private": "Bagno privato",
+      "toiletries": "Set di cortesia",
+      "bathrobe": "Accappatoio",
+      "bidet": "Bidet",
+      "toilet": "WC",
+      "shower": "Vasca o doccia",
+      "hairdryer": "Asciugacapelli"
+    },
+    "features": {
+      "wifi": "WiFi Gratuito",
+      "parking": "Parcheggio Gratuito",
+      "aircon": "Aria condizionata",
+      "pets": "Animali ammessi (su richiesta)",
+      "hardwood": "Pavimenti in legno",
+      "desk": "Scrivania",
+      "tv": "TV",
+      "phone": "Telefono",
+      "satellite": "Canali satellitari",
+      "fan": "Ventilatore"
+    },
+    "accessibility": {
+      "wheelchair": "Unità completamente accessibile in sedia a rotelle",
+      "ground_floor": "Unità situata al piano terra"
+    },
+    "rules": {
+      "no_smoking": "Non fumatori",
+      "pets": "Animali ammessi (su richiesta)",
+      "no_parties": "No feste/eventi"
+    },
+    "details": {
+      "roomDetails": "Dettagli della Camera",
+      "basicInfo": "Informazioni di Base",
+      "size": "Dimensione",
+      "capacity": "Capacità",
+      "upTo": "Fino a",
+      "guests": "ospiti",
+      "bedding": "Letti",
+      "views": "Viste",
+      "amenities": "Servizi in Camera",
+      "bathroom": "Bagno",
+      "features": "Caratteristiche",
+      "accessibility": "Accessibilità",
+      "rules": "Regole della Casa",
+      "moreDetails": "Clicca per maggiori dettagli",
+      "image": "Immagine"
+    }
+  },
+  "standardFloor": {
+    "title": "Camere Standard",
+    "subtitle": "Camere confortevoli e accoglienti con tutti i comfort essenziali",
+    "kitchen": {
+      "title": "Accesso Cucina Condivisa",
+      "basicAppliances": {
+        "title": "Elettrodomestici Base",
+        "description": "Frigorifero e microonde disponibili"
+      },
+      "sharedSpace": {
+        "title": "Spazio Condiviso",
+        "description": "Area pranzo comune con utensili base"
+      }
+    }
+  },
+  "luxuryFloor": {
+    "title": "Camere Lusso",
+    "subtitle": "Sistemazioni premium con servizi di alta gamma e viste spettacolari",
+    "kitchen": {
+      "title": "Accesso Cucina Privata",
+      "premiumAppliances": {
+        "title": "Elettrodomestici Premium",
+        "description": "Cucina di alta gamma con cantinetta vini e macchina per espresso"
+      },
+      "privateSpace": {
+        "title": "Cucina Privata",
+        "description": "Spazio pranzo esclusivo con attrezzature professionali"
+      }
+    }
+  },
+  "amenities": {
+    "title": "I Nostri Servizi e Partnership",
+    "cleaning": {
+      "title": "Servizi di Pulizia",
+      "daily": "Pulizia Giornaliera",
+      "dailyDesc": "Servizio di pulizia professionale ogni giorno dalle 10:00 alle 14:00",
+      "onRequest": "Servizio su Richiesta",
+      "onRequestDesc": "Servizi di pulizia aggiuntivi disponibili su richiesta"
+    },
+    "restaurants": {
+      "title": "Partnership con Ristoranti",
+      "discount": "10% di sconto per i nostri ospiti",
+      "list": [
+        {
+          "name": "Ristorante Galileo",
+          "description": "Cucina italiana tradizionale accanto al nostro B&B"
+        },
+        {
+          "name": "La Lanterna",
+          "description": "Ristorante locale con specialità toscane"
+        },
+        {
+          "name": "Il Canguro",
+          "description": "Ristorante raffinato vicino alla Torre Pendente"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "phone": "+39 123 456 7890",
+    "email": "info@galileobnb.com"
+  },
+  "booking": {
+    "title": "Prenota il tuo soggiorno",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "email": "Email",
+    "phone": "Numero di telefono",
+    "customCode": "Inserisci il prefisso manualmente",
+    "checkIn": "Data di check-in",
+    "checkOut": "Data di check-out",
+    "guests": "Numero di ospiti",
+    "guest": "Ospite",
+    "guests": "Ospiti",
+    "roomType": "Tipo di camera",
+    "specialRequests": "Richieste speciali",
+    "specialRequestsPlaceholder": "Hai delle richieste particolari?",
+    "cancel": "Annulla",
+    "submit": "Conferma prenotazione",
+    "submitting": "Invio in corso...",
+    "submitSuccess": "Richiesta di prenotazione ricevuta!",
+    "submitError": "Spiacenti, si è verificato un errore. Riprova.",
+    "autoClose": "Questa finestra si chiuderà automaticamente in"
+  },
+  "footer": {
+    "copyright": "© 2024 Galileo B&B. Tutti i diritti riservati."
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "common": {
+    "close": "Fechar",
+    "previous": "Anterior",
+    "next": "Próximo"
+  },
+  "nav": {
+    "rooms": "Quartos",
+    "amenities": "Comodidades",
+    "contact": "Contato",
+    "selectLanguage": "Selecionar idioma",
+    "backToHome": "Voltar para início"
+  },
+  "hero": {
+    "welcome": "Bem-vindo ao Galileo",
+    "subtitle": "Experimente conforto e luxo no coração de Pisa",
+    "airport": "A apenas 5 minutos do Aeroporto Internacional de Pisa",
+    "book": "Reserve sua estadia"
+  },
+  "rooms": {
+    "title": "Nossas Acomodações",
+    "standard": {
+      "title": "Quartos Standard",
+      "description": "Quartos confortáveis e acolhedores com todas as comodidades essenciais"
+    },
+    "luxury": {
+      "title": "Quartos Luxo",
+      "description": "Acomodações premium com comodidades de alto padrão e vistas espetaculares"
+    },
+    "types": {
+      "double": "Quarto Duplo",
+      "triple": "Quarto Triplo",
+      "quadruple": "Quarto Quádruplo",
+      "deluxe": "Quarto Deluxe",
+      "superior": "Quarto Superior",
+      "family": "Quarto Família"
+    },
+    "beds": {
+      "single": "Cama de solteiro",
+      "double": "Cama de casal",
+      "large_double": "Cama de casal grande",
+      "king": "Cama king size"
+    },
+    "view": {
+      "garden": "Vista para o jardim",
+      "city": "Vista para a cidade",
+      "courtyard": "Vista para o pátio interno"
+    },
+    "amenities": {
+      "tv": "TV de tela plana",
+      "minibar": "Minibar",
+      "coffee": "Máquina de café",
+      "safe": "Cofre",
+      "desk": "Mesa de trabalho"
+    },
+    "bathroom": {
+      "private": "Banheiro privativo",
+      "toiletries": "Produtos de higiene gratuitos",
+      "bathrobe": "Roupão de banho",
+      "bidet": "Bidê",
+      "toilet": "Vaso sanitário",
+      "shower": "Banheira ou chuveiro",
+      "hairdryer": "Secador de cabelo"
+    },
+    "features": {
+      "wifi": "WiFi gratuito",
+      "parking": "Estacionamento gratuito",
+      "aircon": "Ar condicionado",
+      "pets": "Aceita animais (sob consulta)",
+      "hardwood": "Piso de madeira",
+      "desk": "Mesa de trabalho",
+      "tv": "TV",
+      "phone": "Telefone",
+      "satellite": "Canais via satélite",
+      "fan": "Ventilador"
+    },
+    "accessibility": {
+      "wheelchair": "Unidade totalmente acessível para cadeirantes",
+      "ground_floor": "Unidade localizada no térreo"
+    },
+    "rules": {
+      "no_smoking": "Não fumante",
+      "pets": "Aceita animais (sob consulta)",
+      "no_parties": "Sem festas/eventos"
+    },
+    "details": {
+      "roomDetails": "Detalhes do Quarto",
+      "basicInfo": "Informações Básicas",
+      "size": "Tamanho",
+      "capacity": "Capacidade",
+      "upTo": "Até",
+      "guests": "hóspedes",
+      "bedding": "Camas",
+      "views": "Vistas",
+      "amenities": "Comodidades do Quarto",
+      "bathroom": "Banheiro",
+      "features": "Características",
+      "accessibility": "Acessibilidade",
+      "rules": "Regras da Casa",
+      "moreDetails": "Clique para mais detalhes",
+      "image": "Imagem"
+    }
+  },
+  "standardFloor": {
+    "title": "Quartos Standard",
+    "subtitle": "Quartos confortáveis e acolhedores com todas as comodidades essenciais",
+    "kitchen": {
+      "title": "Cozinha Compartilhada",
+      "basicAppliances": {
+        "title": "Eletrodomésticos Básicos",
+        "description": "Geladeira e micro-ondas disponíveis"
+      },
+      "sharedSpace": {
+        "title": "Espaço Compartilhado",
+        "description": "Área de refeições comum com utensílios básicos"
+      }
+    }
+  },
+  "luxuryFloor": {
+    "title": "Quartos Luxo",
+    "subtitle": "Acomodações premium com comodidades de alto padrão e vistas espetaculares",
+    "kitchen": {
+      "title": "Cozinha Privativa",
+      "premiumAppliances": {
+        "title": "Eletrodomésticos Premium",
+        "description": "Cozinha de alto padrão com adega e máquina de espresso"
+      },
+      "privateSpace": {
+        "title": "Cozinha Privativa",
+        "description": "Espaço exclusivo para refeições com equipamentos profissionais"
+      }
+    }
+  },
+  "amenities": {
+    "title": "Nossos Serviços e Parcerias",
+    "cleaning": {
+      "title": "Serviços de Limpeza",
+      "daily": "Limpeza Diária",
+      "dailyDesc": "Serviço de limpeza profissional todos os dias entre 10:00 e 14:00",
+      "onRequest": "Serviço sob Demanda",
+      "onRequestDesc": "Serviços de limpeza adicionais disponíveis sob demanda"
+    },
+    "restaurants": {
+      "title": "Parcerias com Restaurantes",
+      "discount": "10% de desconto para nossos hóspedes",
+      "list": [
+        {
+          "name": "Ristorante Galileo",
+          "description": "Culinária italiana tradicional ao lado do nosso B&B"
+        },
+        {
+          "name": "La Lanterna",
+          "description": "Favorito local com especialidades toscanas"
+        },
+        {
+          "name": "Il Canguro",
+          "description": "Restaurante refinado próximo à Torre de Pisa"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "phone": "+39 123 456 7890",
+    "email": "info@galileobnb.com"
+  },
+  "booking": {
+    "title": "Reserve sua estadia",
+    "firstName": "Nome",
+    "lastName": "Sobrenome",
+    "email": "Email",
+    "phone": "Número de telefone",
+    "customCode": "Digite o código do país manualmente",
+    "checkIn": "Data de check-in",
+    "checkOut": "Data de check-out",
+    "guests": "Número de hóspedes",
+    "guest": "Hóspede",
+    "guests": "Hóspedes",
+    "roomType": "Tipo de quarto",
+    "specialRequests": "Pedidos especiais",
+    "specialRequestsPlaceholder": "Tem algum requisito ou pedido especial?",
+    "cancel": "Cancelar",
+    "submit": "Enviar reserva",
+    "submitting": "Enviando...",
+    "submitSuccess": "Pedido de reserva recebido!",
+    "submitError": "Desculpe, ocorreu um erro. Por favor, tente novamente.",
+    "autoClose": "Esta janela fechará automaticamente em"
+  },
+  "footer": {
+    "copyright": "© 2024 Galileo B&B. Todos os direitos reservados."
+  }
+}
